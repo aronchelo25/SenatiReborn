@@ -1,0 +1,26 @@
+body{
+
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+nav a{
+	text-decoration: none;
+}
+nav ul ul {
+	display: none;
+}
+/*primer nivel*/
+nav > ul {
+	background:  #333;
+	display: table;
+}
+nav > ul > li {
+	float: left; 
+}
+/*segundo nivel*/
+
+/*tercer nivel*/
+

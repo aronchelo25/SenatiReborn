@@ -1,0 +1,1 @@
+<div class="perso">@Copyright Senati Reborn proyect->Basaldua Barrenechea Aaron, Rosales Chalco Carlos y Laos Llana Jhosselyn</div>
